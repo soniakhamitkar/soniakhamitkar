@@ -7,7 +7,7 @@ I'm a **data-driven problem solver** with a passion for **AI, analytics, and ent
 - 🌱 I’m currently learning **advanced Python, machine learning, and financial modeling**.  
 - 💞️ I’m looking to collaborate on **projects that use AI and data to solve real-world problems**.  
 - 📫 How to reach me: **[LinkedIn](https://linkedin.com/in/sonia-khamitkar) | skhamitkar2@babson.edu**  
-- 😄 Pronouns: **She/Her**  
+- 😄 Pronouns: **She/Her/Hers**  
 - ⚡ Fun fact: **I’ve broken my wrists three times, which sparked my early interest in healthcare!**  
 
 ## 📂 Featured Repositories  
