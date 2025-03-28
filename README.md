@@ -13,7 +13,7 @@ I'm a **data-driven problem solver** with a passion for **AI, analytics, and ent
 ## 📂 Featured Repositories  
 🚀 **[Machine Learning Projects](https://github.com/soniakhamitkar/MachineLearning)** - A collection of ML models, including regression, clustering, and ensemble methods.  
 📊 **[Advanced Python Projects](https://github.com/soniakhamitkar/AdvancedPython)** - Data analysis and automation projects using Python.  
-💼 **[Financial Models Repository](https://github.com/soniakhamitkar/Financial_Models)** - A collection of financial models, including DCF, earnings, and comparable company analysis for various companies.
+💼 **[Financial Models Repository](https://github.com/soniakhamitkar/Financial-Models)** - A collection of financial models, including DCF, earnings, and comparable company analysis for various companies.
 
 ---
 
