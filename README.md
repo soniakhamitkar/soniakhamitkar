@@ -11,10 +11,10 @@ I'm a **data-driven problem solver** with a passion for **AI, analytics, and ent
 - ⚡ Fun fact: **I’ve broken my wrists three times, which sparked my early interest in healthcare!**  
 
 ## 📂 Featured Repositories  
-🚀 **[Machine Learning Projects](https://github.com/soniakhamitkar/MachineLearning)** - A collection of ML models, including regression, clustering, and ensemble methods.  
-📊 **[Advanced Python Projects](https://github.com/soniakhamitkar/AdvancedPython)** - Data analysis and automation projects using Python.  
 💼 **[Financial Models Repository](https://github.com/soniakhamitkar/Financial-Models)** - A collection of financial models, including DCF, earnings, and comparable company analysis for various companies.              
 📈 **[Tableau Projects](https://github.com/soniakhamitkar/Tableau-Projects)** – Interactive dashboards for business insights, performance monitoring, and storytelling with data.
+🚀 **[Machine Learning Projects](https://github.com/soniakhamitkar/MachineLearning)** - A collection of ML models, including regression, clustering, and ensemble methods.  
+📊 **[Advanced Python Projects](https://github.com/soniakhamitkar/AdvancedPython)** - Data analysis and automation projects using Python.  
 
 ---
 
